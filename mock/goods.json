@@ -1,0 +1,132 @@
+{
+    "result": [
+        {
+            "productId": "100002",
+            "productName": "小米6",
+            "productPrice": "2499",
+            "productImg": "2.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100001",
+            "productName": "音响",
+            "productPrice": "1499",
+            "productImg": "1.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100003",
+            "productName": "iphone6",
+            "productPrice": "7499",
+            "productImg": "3.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100004",
+            "productName": "蓝牙",
+            "productPrice": "99",
+            "productImg": "4.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100005",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "5.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100006",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "6.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100007",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "7.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100008",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "8.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100009",
+            "productName": "器人",
+            "productPrice": "3499",
+            "productImg": "9.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100010",
+            "productName": "机人",
+            "productPrice": "3499",
+            "productImg": "10.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100011",
+            "productName": "器人",
+            "productPrice": "3499",
+            "productImg": "11.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100012",
+            "productName": "机人",
+            "productPrice": "3499",
+            "productImg": "12.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100013",
+            "productName": "机器",
+            "productPrice": "3499",
+            "productImg": "13.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100014",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "14.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100015",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "15.jpg",
+            "productNum": 0,
+            "checked": ""
+        },
+        {
+            "productId": "100016",
+            "productName": "机器人",
+            "productPrice": "3499",
+            "productImg": "16.jpg",
+            "productNum": 0,
+            "checked": ""
+        }
+    ]
+}
